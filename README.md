@@ -5,6 +5,7 @@
 <h3 align="center">I'm a computer cientist passionate on artificial inteligence, low level development, hardware and operational systems</h3>
 
 <div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-pedro-coutinho-)
 
 </div>
@@ -23,9 +24,8 @@
 <h2 align="center">Github Status</h2>
 
 <div align="center">
-    <ul>
     <img width="48%" src="https://streak-stats.vercel.app?user=akinghill&theme=react" alt="GitHub Status"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mysterious-man01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false" height="150" alt="Most Used Languages"/>
-    ![](https://komarev.com/ghpvc/?username=mysterious-man01)
-    </ul>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mysterious-man01)
 </div>
