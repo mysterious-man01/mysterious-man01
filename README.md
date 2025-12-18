@@ -24,8 +24,13 @@
 <h2 align="center">Github Status</h2>
 
 <div align="center">
-    <img width="48%" src="https://streak-stats.vercel.app?user=akinghill&theme=react" alt="GitHub Status"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mysterious-man01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false" height="150" alt="Most Used Languages"/>
+    <img width="48%" src="https://streak-stats.vercel.app?user=akinghill&theme=react" alt="GitHub Status"
+    onerror="this.remove()"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mysterious-man01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false" height="150" alt="Most Used Languages"
+    onerror="this.remove()"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mysterious-man01&theme=merko"
+    alt="Github Activity"
+    onerror="this.remove()"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mysterious-man01)
 </div>
