@@ -10,7 +10,7 @@
 
 </div>
 
-<h2 align="center">Skils</h2>
+<h2 align="center">Skills</h2>
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart"/>
